@@ -1,9 +1,3 @@
-//Author: Abdulla Saleh
-//Course: CSCI 235
-//Instructor: Prof. Wole Oyekoya 
-//Assignment: Project 2 
-//Date: Sep/25/2024
-// Project 2- The Appetizer , MainCourse , and Dessert classes will extend the Dish class by introducing new attributes and functions. This is an exercise in inheritance, where the base class ( Dish ) is extended by specialized subclasses.
 
 #include"MainCourse.hpp"
 
