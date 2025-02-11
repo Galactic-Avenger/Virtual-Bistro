@@ -5,9 +5,7 @@
  * The Dish class includes attributes such as name, ingredients, preparation time, price, and cuisine type.
  * It provides constructors, accessor and mutator functions, and a display function to manage and present
  * the details of a dish.
- * 
- * @date [Insert Date]
- * @author [Your Name]
+ *
  */
 
 #ifndef DISH_HPP
