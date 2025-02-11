@@ -1,3 +1,6 @@
+/* Refresh the knowledge of basic Object-Oriented Programming (OOP) concepts by implementing the Dish class, 
+which will be the foundation of the restaurant simulation. */
+
 #include "Dish.hpp"
 
 // Default constructor.
