@@ -1,10 +1,3 @@
-//Author: Abdulla Saleh
-//Course: CSCI 235
-//Instructor: Prof. Wole Oyekoya 
-//Assignment: Project 1 
-//Date: Sep/12/2024
-// Project 1 - The goal of this project is to refresh the knowledge of basic Object-Oriented Programming (OOP) concepts by implementing the Dish class, which will be the foundation of the restaurant simulation.
-
 #include "Dish.hpp"
 
 // Default constructor.
