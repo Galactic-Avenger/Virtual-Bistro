@@ -1,6 +1,6 @@
 //  Created by Frank M. Carrano and Timothy M. Henry.
 //  Copyright (c) 2017 Pearson Education, Hoboken, New Jersey.
-//  Modified by Tiziana Ligorio for Hunter College CSCI 235
+//  Modified by Tiziana Ligorio 
 
 /** @file Node.hpp
     Node for Singly Linked Chain*/
