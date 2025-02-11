@@ -1,7 +1,4 @@
-//Author: Abdulla Saleh
-//Course: CSCI 235
-//Instructor: Prof. Wole Oyekoya 
-//Assignment: Project 1 
+
 // Testing the functions here for the Dish Class.
 
 #include "Dish.hpp"
