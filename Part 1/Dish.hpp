@@ -1,9 +1,3 @@
-//Author: Abdulla Saleh
-//Course: CSCI 235
-//Instructor: Prof. Wole Oyekoya 
-//Assignment: Project 1 
-// Project 1 - Each dish will have specific attributes that define its preparation process, the ingredients used, and its price. 
-
 #ifndef DISH_HPP
 #define DISH_HPP
 
